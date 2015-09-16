@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:56:01.010188
-#+TITLE: 鉛汞甲庚至寶集成
-#+PROPERTY: DZID  DZ0919
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—247 五卷 洞神部眾術類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
